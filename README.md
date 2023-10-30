@@ -1,14 +1,14 @@
 
-
+```
 const ro = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Jest, Angular],
   askMeAbout: ["web dev", "tech", "app dev", "photography"],
 }
+```
 
-
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,figma,jest,firebase,github,ai,ps,ver,vscode,vitemd&theme=light)](https://skillicons.dev)
 
 
 ### 💻 Tech Stack:
