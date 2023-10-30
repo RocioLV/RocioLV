@@ -1,5 +1,6 @@
 #### 🫰 Hello, I am Rocío. You can call me Ro :)
 
+
 ```
 const ro = {
   pronouns: "she" | "her",
@@ -8,6 +9,7 @@ const ro = {
   askMeAbout: ["web dev", "tech", "app dev", "photography"],
 }
 ```
+
 
 #### 💻 Tech Stack:
 
