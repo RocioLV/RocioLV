@@ -13,4 +13,4 @@ const ro = {
 
 #### 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,figma,jest,firebase,github,ai,ps,ver,vscode,vitemd&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,html,css,js,nodejs,figma,jest,firebase,github,ai,ps,vscode,vite,reactmd&theme=light)](https://skillicons.dev)
