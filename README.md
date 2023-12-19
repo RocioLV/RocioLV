@@ -5,8 +5,7 @@
 const ro = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Jest, Angular],
-  askMeAbout: ["web dev", "tech", "app dev", "art"],
+  askMeAbout: ["web dev", "tech", "illustration"],
 }
 ```
 
