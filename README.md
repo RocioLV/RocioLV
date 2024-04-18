@@ -4,8 +4,8 @@
 ```
 const ro = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS],
-  askMeAbout: ["web dev", "tech", "illustration"],
+  code: [JavaScript | HTML | CSS | React | Typescript | Node.js | Git | SCRUM],
+  askMeAbout: ["web dev", "tech", "illustration", "frontend"],
 }
 ```
 
